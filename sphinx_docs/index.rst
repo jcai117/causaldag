@@ -6,13 +6,18 @@
 Welcome to causaldag's documentation!
 =====================================
 
-The `causaldag` package provides a unified namespace for 3 packages. Please refer to their documentation for details:
+.. toctree::
+   :maxdepth: 3
 
-.. _graphical_models: https://graphical-models.readthedocs.io/en/latest/
-.. _graphical_model_learning: https://graphical-model-learning.readthedocs.io/en/latest/
-.. _conditional_independence: https://conditional-independence.readthedocs.io/en/latest/
+   classes/index
+   utils/index
+   structure_learning/index
+   rand/index
 
 
-- graphical_models_
-- graphical_model_learning_
-- conditional_independence_
+Indices and tables
+==================
+
+* :ref:`genindex`
+* :ref:`modindex`
+* :ref:`search`
